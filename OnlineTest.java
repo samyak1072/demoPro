@@ -1,4 +1,4 @@
-/*Online Java Paper Test*/
+/*OnlineTest*/
 
 import java.awt.*;
 import java.awt.event.*;
